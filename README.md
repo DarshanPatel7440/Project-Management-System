@@ -48,4 +48,7 @@ To deliver a live, centralized Power BI dashboard that:
 – 📊 Strategic Alignment: Ensured projects aligned with AMRD’s overall business goals and timelines.
 
 ### 6.	Screenshots / Demos
-[Dashboard Preview](https://github.com/DarshanPatel7440/Textile-Industry/blob/main/Manufacture.png)
+[Client Overview Page]([https://github.com/DarshanPatel7440/Project-Management-System/blob/main/Client%20Overview.png])
+[Project Overview Page]([[https://github.com/DarshanPatel7440/Project-Management-System/blob/main/Project%20Overview.png])
+[Timesheet Overview Page]([https://github.com/DarshanPatel7440/Project-Management-System/blob/main/Timesheet%20Overview.png))
+
